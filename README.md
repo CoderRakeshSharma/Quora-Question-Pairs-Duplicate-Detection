@@ -18,7 +18,7 @@ Our job is to **build an AI model** that can look at any two questions and decid
 
 ## 🎯 Project Goal
 
-To create a machine learning model that can **predict whether two questions have the same meaning or not.** In Simple words we need to build a model that can predict whether a pair of questions from Quora are semantically identical using NLP and Machine Learning Techniques.
+We need to build a model that can predict whether a pair of questions from Quora are semantically identical using NLP and Machine Learning Techniques. In Simple terms create a machine learning model that can **predict whether two questions have the same meaning or not.**
 
 ---
 
