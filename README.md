@@ -94,8 +94,9 @@ It's like a smart friend who helps you avoid repeating yourself!
 ## 📂 Project Structure
 
 ```
-📁 Quora_CODE_Final.ipynb   # Main code in Jupyter Notebook
+📁 Quora_CODE.ipynb   # Main code in Jupyter Notebook
 📄 AI-ClientProject-4.pdf    # Project summary and business case
+📄 best_model.pkl    # Saved the best model
 📄 README.md                 # You are here
 ```
 
